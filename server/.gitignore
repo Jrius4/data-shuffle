@@ -1,2 +1,5 @@
 **/*.pyc
+**/*_initial.py
 **/__pycache__
+/env
+*/migrations/*.py
